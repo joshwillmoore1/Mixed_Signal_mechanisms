@@ -1,1 +1,3 @@
-# Mixed_Signal_mechanisms
+# Mixed Signal mechanisms
+
+A repo for the mixed signal mechanisms paper... 
